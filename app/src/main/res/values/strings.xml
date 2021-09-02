@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Test</string>
+    <string name="login">LOGIN</string>
+    <string name="signup">SIGNUP</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="enter_username">Enter Username</string>
+    <string name="do_not_account">Dont have an account?</string>
+    <string name="sign_up"> Sign Up</string>
+
+    <string name="name">Name</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="mobile">Mobile</string>
+    <string name="enter_mobile_no">Enter Mobile Number</string>
+
+    <string name="already_account">Already have an account?</string>
+    <string name="sign"> Sign In</string>
+    <string name="notice">- Notice goes here</string>
+
+    <string name="valid_mobile">Enter valid mobile no.</string>
+    <string name="pass_length">Password mush be 8 character and more</string>
+</resources>
